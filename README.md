@@ -3,5 +3,5 @@ just ordinary repo
 
 
 # Kalo nge Push pastiin bikin branch baru kalo buat belajar
-#jangan langsung di merge yak
-#AFFAH IYAHH
+#Jangan langsung di merge yak
+#Kalo ngepush disertakan message nya
