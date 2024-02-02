@@ -1,11 +1,11 @@
-const mongoose = reqire("mongoose");
+//models/bookModel.js
+const mongoose = require("mongoose");
 
-const bookSchema = new mongoose.Schema({
-  title: String,
-  author: String,
-  publishedYear: Number,
+const bookSchema = new mongoose. Schema({
+title: String,
+author: String,
+publishedYear: Number,
 });
 
 const Book = mongoose.model("Book", bookSchema);
-
 module.exports = Book;
