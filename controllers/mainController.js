@@ -1,4 +1,3 @@
-
 const Book = require("../models/bookModel");
 
 class MainController {
@@ -27,3 +26,4 @@ class MainController {
         res.status(500).json({ message: error.message });
         }
 module.exports = MainController;
+
